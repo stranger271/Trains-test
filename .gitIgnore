@@ -1,0 +1,6 @@
+TestClient/bin
+TestClient/obj
+Trains/bin
+Trains/Migrations
+Trains/obj
+Trains/Web.config
